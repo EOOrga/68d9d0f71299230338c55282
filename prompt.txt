@@ -1,0 +1,6 @@
+using $gpc-app-builder  create this app
+app title: BRETONNIER CAROLE
+app idea: An operations-focused app offering lead management, appointment booking, quality control checklist, and shift scheduling to streamline daily business tasks.
+company name: BRETONNIER CAROLE
+email address: [email to be provided later]
+the two icon and featured graphics contained in docs folder

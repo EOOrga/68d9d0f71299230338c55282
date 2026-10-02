@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.bretonnier_carole": {
+      "title": "BRETONNIER CAROLE",
+      "short_description": "Manage leads, bookings, quality checks, and shifts in one local operations app.",
+      "full_description": "BRETONNIER CAROLE helps small business operators keep daily work organized from a single Android workspace. Track lead status, next actions, appointment commitments, quality checklist progress, and shift coverage without creating an account.\n\nThe app stores records locally on the device, so teams can focus on practical follow-up and closing routines without cloud sync, analytics, or external service connections.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:20:52.607684+00:00"
+    }
+  }
+}

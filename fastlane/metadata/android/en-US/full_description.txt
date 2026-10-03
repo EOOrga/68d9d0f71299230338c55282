@@ -1,0 +1,3 @@
+BRETONNIER CAROLE helps small business operators keep daily work organized from a single Android workspace. Track lead status, next actions, appointment commitments, quality checklist progress, and shift coverage without creating an account.
+
+The app stores records locally on the device, so teams can focus on practical follow-up and closing routines without cloud sync, analytics, or external service connections.

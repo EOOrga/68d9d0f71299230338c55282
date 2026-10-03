@@ -274,7 +274,7 @@ class OperationsStore extends ChangeNotifier {
       ..addAll(<QualityTask>[
         QualityTask(
           id: 'quality-1',
-          title: 'Opening checks recorded',
+          title: 'BRETONNIER CAROLE',
           area: 'Front desk',
           isComplete: true,
         ),
